@@ -1,0 +1,182 @@
+[
+    {
+        "id": "electricidad-01",
+        "titulo": "Cable tt 2x2.5",
+        "imagen":"./img/cabletaller2,5jpg.jpg",
+        "categoria": {
+            "nombre": "Electricidad",
+            "id": "electricidad"
+        },
+        "precio": 1200
+    },
+    {
+        "id": "electricidad-02",
+        "titulo": "Toma corriente",
+        "imagen": "./img/toma-exterior.jpg",
+        "categoria": {
+            "nombre": "Electricidad",
+            "id": "electricidad"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "electricidad-03",
+        "titulo": "Termica sica",
+        "imagen": "./img/termica20.jpg",
+        "categoria": {
+            "nombre": "Electricidad",
+            "id": "electricidad"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "electricidad-04",
+        "titulo": "caja p/termica",
+        "imagen": "./img/cajaptermica.jpg",
+        "categoria": {
+            "nombre": "Electricidad",
+            "id": "electricidad"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "electricidad-05",
+        "titulo": "Capacitor 30uf",
+        "imagen": "./img/CAPACITOR-30UF-PERMANENTE.jpg",
+        "categoria": {
+            "nombre": "Electricidad",
+            "id": "electricidad"
+        },
+        "precio": 3000
+    },
+    {
+        "id": "ferreteria-01",
+        "titulo": "Llave allen ",
+        "imagen": "./img/LLAVE-ALLEN-X9-PIEZAS.jpg",
+        "categoria": {
+            "nombre": "Ferreteria",
+            "id": "ferreteria"
+        },
+        "precio": 1500
+    },
+    {
+        "id": "ferreteria-02",
+        "titulo": "Pala ancha",
+        "imagen": "./img/palaancha_std.jpg",
+        "categoria": {
+            "nombre": "Ferreteria",
+            "id": "ferreteria"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "ferreteria-03",
+        "titulo": "termostato",
+        "imagen": "./img/TERMOSTATOGAfARC45070-25.png",
+        "categoria": {
+            "nombre": "Ferreteria",
+            "id": "ferreteria"
+        },
+        "precio": 1800
+    },
+    {
+        "id": "ferreteria-04",
+        "titulo": "soporte tambor",
+        "imagen": "./img/SOPORTETAMBOR-DREAN166.jpg",
+        "categoria": {
+            "nombre": "Ferreteria",
+            "id": "ferreteria"
+        },
+        "precio": 5000
+    },
+    {
+        "id": "ferreteria-05",
+        "titulo": "Taladro",
+        "imagen": "./img/TALADRO,PERCUTORYMARTILLO750 WATT VERSA.jpg",
+        "categoria": {
+            "nombre": "Ferreteria",
+            "id": "ferreteria"
+        },
+        "precio": 15000
+    },
+    {
+        "id": "ferreteria-06",
+        "titulo": "Electrobomba",
+        "imagen": "./img/ELECTROBOMBA-HANYU-CUADRADS.jpg",
+        "categoria": {
+            "nombre": "Ferreteria",
+            "id": "ferreteria"
+        },
+        "precio": 5000
+    },
+    {
+        "id": "ferreteria-07",
+        "titulo": "Electrovalvula",
+        "imagen": "./img/ELECTROVALVULA-2-VIAS-90°.jpg",
+        "categoria": {
+            "nombre": "Ferreteria",
+            "id": "ferreteria"
+        },
+        "precio": 8000
+    },
+    {
+        "id": "ferreteria-08",
+        "titulo": "Pinza",
+        "imagen": "./img/PINZA-MINI-PARA-ELECTRONICA-CURVA 5.jpg",
+        "categoria": {
+            "nombre": "Ferreteria",
+            "id": "ferreteria"
+        },
+        "precio": 3000
+    },
+    {
+        "id": "iluminacion-01",
+        "titulo": "velador",
+        "imagen": "./img/velador.jpg",
+        "categoria": {
+            "nombre": "Iluminacion",
+            "id": "iluminacion"
+        },
+        "precio": 5000
+    },
+    {
+        "id": "iluminacion-02",
+        "titulo": "Colgante 3L",
+        "imagen": "./img/Colgantex3.jpg",
+        "categoria": {
+            "nombre": "Iluminacion",
+            "id": "iluminacion"
+        },
+        "precio": 15000
+    },
+    {
+        "id": "iluminacion-03",
+        "titulo": "Colgante industrial",
+        "imagen":"./img/colgant-tipo-industrial.jpg" ,
+        "categoria": {
+            "nombre": "Iluminacion",
+            "id": "iluminacion"
+        },
+        "precio": 20000
+    },
+    {
+        "id": "iluminacion-04",
+        "titulo": "Colgante verde",
+        "imagen": "./img/colganteverde.jpeg",
+        "categoria": {
+            "nombre": "Iluminacion",
+            "id": "iluminacion"
+        },
+        "precio": 15000
+    },
+    {
+        "id": "iluminacion-05",
+        "titulo": "Colgante negro",
+        "imagen": "./img/colgantenegro.jpeg",
+        "categoria": {
+            "nombre": "Iluminacion",
+            "id": "iluminacion"
+        },
+        "precio": 16000
+    }
+]
